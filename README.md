@@ -23,3 +23,25 @@ A small operational analytics tool that parses service logs and identifies error
 npm test
 npm run demo
 ```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+## Progress Note 1
+
+- 2025-12-22: documented service readiness, implementation progress, and release hygiene for log-anomaly-detector.
+- Captured validation notes for observability, operational checks, and handoff readiness.
