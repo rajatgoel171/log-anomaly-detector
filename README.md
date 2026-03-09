@@ -41,7 +41,7 @@ npm run demo
 
 
 
-## Progress Note 7
+## Progress Note 8
 
-- 2026-02-25: documented service readiness, implementation progress, and release hygiene for log-anomaly-detector.
+- 2026-03-09: documented service readiness, implementation progress, and release hygiene for log-anomaly-detector.
 - Captured validation notes for observability, operational checks, and handoff readiness.
