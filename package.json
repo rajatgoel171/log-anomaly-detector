@@ -1,0 +1,13 @@
+{
+  "name": "log-anomaly-detector",
+  "version": "1.0.0",
+  "description": "Operational log parser that detects error spikes and latency anomalies.",
+  "type": "module",
+  "scripts": {
+    "test": "node --test",
+    "demo": "node src/cli.js data/sample.log"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
